@@ -1,293 +1,117 @@
 <!DOCTYPE html>
 <html lang="en">
-  <head>
-    <meta charset="UTF-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>News Website</title>
-    <script src="https://cdn.tailwindcss.com"></script>
-  </head>
-  <body class="bg-gray-100">
-    <!-- Header -->
-    <header class="bg-white text-white">
-      <div
-        class="container mx-auto flex justify-between items-center px-4 py-4"
-      >
-        <img src="/assets/bm-logo.png" width="180" height="180" />
-        <div
-          class="py-2 px-4 rounded w-1/2 p-4 border-2 flex-row flex justify-between"
-        >
-          <input
-            type="text"
-            placeholder="Nhập nội dung tìm kiếm"
-            class="text-gray-700 w-full outline-none"
-          />
-          <img src="/assets/search-svgrepo-com.svg" width="20" height="20" />
-        </div>
-        <div class="flex flex-row gap-4">
-          <img
-            src="/assets/account-user-avatar-svgrepo-com.svg"
-            width="40"
-            height="40"
-          />
-          <button
-            type="button"
-            class="hover:bg-gray-500 active:bg-violet-600 focus:outline-none focus:ring focus:ring-gray-600"
-          >
-            <img
-              src="/assets/menu-navigation-grid-1528-svgrepo-com.svg"
-              width="40"
-              height="40"
-            />
-          </button>
-        </div>
+
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>News Website</title>
+  <link rel="stylesheet" href="style.css" />
+  <script src="https://cdn.tailwindcss.com"></script>
+</head>
+
+<body class="bg-gray-100">
+  <header class="header-bg">
+    <div class="header-container">
+      <img src="/assets/bm-logo.png" width="180" height="180" />
+      <div class="search-bar">
+        <input type="text" placeholder="Nhập nội dung tìm kiếm" class="search-input" />
+        <img src="/assets/search-svgrepo-com.svg" width="20" height="20" />
       </div>
-      <div class="bg-teal-600">
-        <div
-          class="h-16 items-center mx-auto justify-between flex flex-row container"
-        >
-          <div class="flex flex-wrap justify-center items-center">
-            <button
-              class="items-center align-center h-16 w-24 hover:bg-teal-700 focus:outline-none"
-            >
-              NÓNG
-            </button>
-            <button
-              class="items-center align-center h-16 border-x-2 w-24 hover:bg-teal-700 focus:outline-none"
-            >
-              MỚI
-            </button>
-            <button
-              class="items-center align-center h-16 w-24 hover:bg-teal-700 focus:outline-none"
-            >
-              VIDEO
-            </button>
-            <button
-              class="items-center align-center h-16 border-s-2 w-24 hover:bg-teal-700 focus:outline-none"
-            >
-              CHỦ ĐỀ
-            </button>
-            <div class="border-2 rounded-full p-1 px-3 ml-3">
-              # Năng lượng tích cực
-            </div>
-            <div class="border-2 rounded-full p-1 px-3 ml-3">
-              # Khám phá Việt Nam
-            </div>
-            <div class="border-2 rounded-full p-1 px-3 ml-3">
-              # Khám phá Thế Giới
-            </div>
-          </div>
-
-          <button
-            type="button"
-            class="hover:bg-teal-700 focus:outline-none h-16 items-center px-4"
-          >
-            <img
-              src="/assets/menu-svgrepo-com.svg"
-              width="40"
-              height="40"
-              class="justify-center"
-            />
-          </button>
-        </div>
+      <div class="account-actions">
+        <img src="/assets/account-user-avatar-svgrepo-com.svg" width="40" height="40" />
+        <button class="menu-btn">
+          <img src="/assets/menu-navigation-grid-1528-svgrepo-com.svg" width="40" height="40" />
+        </button>
       </div>
-    </header>
-
-    <!-- Main Content -->
-    <div class="container mx-auto flex flex-wrap py-6 px-4">
-      <!-- Main News Section -->
-      <section class="w-full md:w-2/3">
-        <!-- Featured Image and Headline -->
-        <div class="mb-4">
-          <img
-            src="/assets/image-1.jpg"
-            alt="Featured News"
-            class="w-full h-auto rounded"
-          />
-          <h1 class="text-4xl font-regular text-cyan-600 mt-2">
-            "Rốn lũ" Tân Hóa ngập tới 2m, hàng trăm hộ dân lên nhà phao tránh
-            trú
-          </h1>
-          <p class="text-gray-600 mt-1">VnExpress | 2h ago</p>
-        </div>
-
-        <!-- Additional News Articles -->
-        <div class="grid grid-cols-1 md:grid-cols-3 gap-4">
-          <!-- Article 1 -->
-          <div class="bg-white p-4 rounded shadow">
-            <img
-              src="https://placehold.co/300x150"
-              alt="Article 1"
-              class="w-full h-auto rounded"
-            />
-            <h2 class="font-bold text-lg mt-2">Lịch nghỉ lễ năm 2025</h2>
-            <p class="text-gray-600">Vietnamnet | 1h ago</p>
-          </div>
-
-          <!-- Article 2 -->
-          <div class="bg-white p-4 rounded shadow">
-            <img
-              src="https://placehold.co/300x150"
-              alt="Article 2"
-              class="w-full h-auto rounded"
-            />
-            <h2 class="font-bold text-lg mt-2">
-              Buổi vân động tranh cử đặc biệt của bà Kamala Harris
-            </h2>
-            <p class="text-gray-600">VnExpress | 2h ago</p>
-          </div>
-
-          <!-- Article 3 -->
-          <div class="bg-white p-4 rounded shadow">
-            <img
-              src="https://placehold.co/300x150"
-              alt="Article 3"
-              class="w-full h-auto rounded"
-            />
-            <h2 class="font-bold text-lg mt-2">
-              Đua cứu đòi cứu vật chất do Phong Châu bị ngập
-            </h2>
-            <p class="text-gray-600">VnExpress | 3h ago</p>
-          </div>
-        </div>
-        <div class="flex flex-col">
-          <div class="bg-white p-4 rounded shadow mt-4 flex flex-row">
-            <img src="https://placehold.co/200x150" />
-            <div class="flex flex-col ml-3">
-              <p class="text-3xl">
-                Lorem Ipsum is simply dummy text of the printing and typesetting
-                industry.
-              </p>
-              <p class="text-gray-600 text-xl mt-4">VnExpress | 3h ago</p>
-            </div>
-          </div>
-          <div class="bg-white p-4 rounded shadow mt-4 flex flex-row">
-            <img src="https://placehold.co/200x150" />
-            <div class="flex flex-col ml-3">
-              <p class="text-3xl">
-                Lorem Ipsum is simply dummy text of the printing and typesetting
-                industry.
-              </p>
-              <p class="text-gray-600 text-xl mt-4">VnExpress | 3h ago</p>
-            </div>
-          </div>
-          <div class="bg-white p-4 rounded shadow mt-4 flex flex-row">
-            <img src="https://placehold.co/200x150" />
-            <div class="flex flex-col ml-3">
-              <p class="text-3xl">
-                Lorem Ipsum is simply dummy text of the printing and typesetting
-                industry.
-              </p>
-              <p class="text-gray-600 text-xl mt-4">VnExpress | 3h ago</p>
-            </div>
-          </div>
-          <div class="bg-white p-4 rounded shadow mt-4 flex flex-row">
-            <img src="https://placehold.co/200x150" />
-            <div class="flex flex-col ml-3">
-              <p class="text-3xl">
-                Lorem Ipsum is simply dummy text of the printing and typesetting
-                industry.
-              </p>
-              <p class="text-gray-600 text-xl mt-4">VnExpress | 3h ago</p>
-            </div>
-          </div>
-        </div>
-      </section>
-
-      <!-- Sidebar Section -->
-      <aside class="w-full md:w-1/3 md:pl-6">
-        <!-- Trending News -->
-        <div class="bg-white p-4 rounded shadow mb-4">
-          <ul>
-            <li class="mb-2 flex flex-row">
-              <img src="https://placehold.co/60x60" />
-              <div class="ml-4">
-                <p class="text-gray-600 text-bold hover:underline text-xl">
-                  Lorem Ipsum is simply dummy text of the printing and
-                  typesetting industry.
-                </p>
-                <p class="text-gray-600 text-sm">VnExpress | 3h ago</p>
-              </div>
-            </li>
-            <div class="border-2 mt-3"></div>
-            <li class="mb-2 flex flex-row">
-              <img src="https://placehold.co/60x60" />
-              <div class="ml-4">
-                <p class="text-gray-600 text-bold hover:underline text-xl">
-                  Lorem Ipsum is simply dummy text of the printing and
-                  typesetting industry.
-                </p>
-                <p class="text-gray-600 text-sm">VnExpress | 3h ago</p>
-              </div>
-            </li>
-            <div class="border-2 mt-3"></div>
-            <li class="mb-2 flex flex-row">
-              <img src="https://placehold.co/60x60" />
-              <div class="ml-4">
-                <p class="text-gray-600 text-bold hover:underline text-xl">
-                  Lorem Ipsum is simply dummy text of the printing and
-                  typesetting industry.
-                </p>
-                <p class="text-gray-600 text-sm">VnExpress | 3h ago</p>
-              </div>
-            </li>
-            <div class="border-2 mt-3"></div>
-            <li class="mb-2 flex flex-row">
-              <img src="https://placehold.co/60x60" />
-              <div class="ml-4">
-                <p class="text-gray-600 text-bold hover:underline text-xl">
-                  Lorem Ipsum is simply dummy text of the printing and
-                  typesetting industry.
-                </p>
-                <p class="text-gray-600 text-sm">VnExpress | 3h ago</p>
-              </div>
-            </li>
-            <div class="border-2 mt-3"></div>
-            <li class="mb-2 flex flex-row">
-              <img src="https://placehold.co/60x60" />
-              <div class="ml-4">
-                <p class="text-gray-600 text-bold hover:underline text-xl">
-                  Lorem Ipsum is simply dummy text of the printing and
-                  typesetting industry.
-                </p>
-                <p class="text-gray-600 text-sm">VnExpress | 3h ago</p>
-              </div>
-            </li>
-            <div class="border-2 mt-3"></div>
-          </ul>
-        </div>
-
-        <!-- Local News -->
-        <div class="bg-white p-4 rounded shadow">
-          <h2 class="font-bold text-xl mb-2">Local News</h2>
-          <ul>
-            <li class="mb-2">
-              <a href="#" class="text-blue-600 hover:underline"
-                >TP HCM tổ chức ngày hội sức khỏe</a
-              >
-              <p class="text-gray-600 text-sm">Thanh Niên | 1h ago</p>
-            </li>
-            <li class="mb-2">
-              <a href="#" class="text-blue-600 hover:underline"
-                >Đường sá tại Đà Nẵng được cải thiện sau bão</a
-              >
-              <p class="text-gray-600 text-sm">VnExpress | 2h ago</p>
-            </li>
-            <li class="mb-2">
-              <a href="#" class="text-blue-600 hover:underline"
-                >Cầu vượt tại Hà Nội sẽ hoàn thành vào tháng tới</a
-              >
-              <p class="text-gray-600 text-sm">Vietnamnet | 3h ago</p>
-            </li>
-          </ul>
-        </div>
-      </aside>
     </div>
-
-    <!-- Footer -->
-    <footer class="bg-gray-800 text-white py-4 mt-6">
-      <div class="container mx-auto px-4">
-        <p class="text-center">© 2024 Báo Mới - All rights reserved.</p>
+    <div class="nav-bar">
+      <div class="nav-container">
+        <div class="nav-buttons">
+          <button class="nav-btn">NÓNG</button>
+          <button class="nav-btn border-x-2">MỚI</button>
+          <button class="nav-btn">VIDEO</button>
+          <button class="nav-btn border-s-2">CHỦ ĐỀ</button>
+          <div class="nav-tag"># Năng lượng tích cực</div>
+          <div class="nav-tag"># Khám phá Việt Nam</div>
+          <div class="nav-tag"># Khám phá Thế Giới</div>
+        </div>
+        <button class="menu-btn">
+          <img src="/assets/menu-svgrepo-com.svg" width="40" height="40" />
+        </button>
       </div>
-    </footer>
-  </body>
+    </div>
+  </header>
+
+  <div class="container mx-auto flex flex-wrap py-6 px-4">
+    <section class="main-news">
+      <div class="mb-4">
+        <img src="/assets/image-1.jpg" alt="Featured News" class="featured-img" />
+        <h1 class="featured-title">
+          "Rốn lũ" Tân Hóa ngập tới 2m, hàng trăm hộ dân lên nhà phao tránh trú
+        </h1>
+        <p class="featured-meta">VnExpress | 2h ago</p>
+      </div>
+      <div class="news-grid">
+        <div class="article-card">
+          <img src="https://placehold.co/300x150" alt="Article 1" class="article-img" />
+          <h2 class="article-title">Lịch nghỉ lễ năm 2025</h2>
+          <p class="article-meta">Vietnamnet | 1h ago</p>
+        </div>
+        <div class="article-card">
+          <img src="https://placehold.co/300x150" alt="Article 2" class="article-img" />
+          <h2 class="article-title">
+            Buổi vân động tranh cử đặc biệt của bà Kamala Harris
+          </h2>
+          <p class="article-meta">VnExpress | 2h ago</p>
+        </div>
+        <div class="article-card">
+          <img src="https://placehold.co/300x150" alt="Article 3" class="article-img" />
+          <h2 class="article-title">Đua cứu đòi cứu vật chất do Phong Châu bị ngập</h2>
+          <p class="article-meta">VnExpress | 3h ago</p>
+        </div>
+      </div>
+      <div class="flex flex-col">
+        <div class="extended-news">
+          <img src="https://placehold.co/200x150" />
+          <div class="extended-news-info">
+            <p class="extended-title">Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p>
+            <p class="extended-meta">VnExpress | 3h ago</p>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <aside class="sidebar">
+      <div class="bg-white p-4 rounded shadow mb-4">
+        <ul class="trending-list">
+          <li class="trending-item">
+            <img src="https://placehold.co/60x60" />
+            <div class="trending-info">
+              <p class="trending-title">
+                Lorem Ipsum is simply dummy text of the printing and typesetting industry.
+              </p>
+              <p class="trending-meta">VnExpress | 3h ago</p>
+            </div>
+          </li>
+        </ul>
+      </div>
+      <div class="local-news">
+        <h2 class="local-news-title">Local News</h2>
+        <ul class="local-news-list">
+          <li class="local-news-item">
+            <a href="#" class="local-news-link">TP HCM tổ chức ngày hội sức khỏe</a>
+            <p class="local-news-meta">Thanh Niên | 1h ago</p>
+          </li>
+        </ul>
+      </div>
+    </aside>
+  </div>
+
+  <footer class="footer">
+    <div class="container mx-auto px-4">
+      <p class="text-center">© 2024 Báo Mới - All rights reserved.</p>
+    </div>
+  </footer>
+</body>
+
 </html>
