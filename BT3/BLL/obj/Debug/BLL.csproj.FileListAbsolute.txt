@@ -1,0 +1,11 @@
+D:\UIT\HK5\NET\LINQ to Object\BLL\bin\Debug\BLL.dll
+D:\UIT\HK5\NET\LINQ to Object\BLL\bin\Debug\BLL.pdb
+D:\UIT\HK5\NET\LINQ to Object\BLL\bin\Debug\DAL.dll
+D:\UIT\HK5\NET\LINQ to Object\BLL\bin\Debug\DTO.dll
+D:\UIT\HK5\NET\LINQ to Object\BLL\bin\Debug\DAL.pdb
+D:\UIT\HK5\NET\LINQ to Object\BLL\bin\Debug\DTO.pdb
+D:\UIT\HK5\NET\LINQ to Object\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+D:\UIT\HK5\NET\LINQ to Object\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+D:\UIT\HK5\NET\LINQ to Object\BLL\obj\Debug\BLL.csproj.Up2Date
+D:\UIT\HK5\NET\LINQ to Object\BLL\obj\Debug\BLL.dll
+D:\UIT\HK5\NET\LINQ to Object\BLL\obj\Debug\BLL.pdb

@@ -1,0 +1,17 @@
+D:\UIT\HK5\NET\LINQ to Object\GUI\bin\Debug\GUI.exe.config
+D:\UIT\HK5\NET\LINQ to Object\GUI\bin\Debug\GUI.exe
+D:\UIT\HK5\NET\LINQ to Object\GUI\bin\Debug\GUI.pdb
+D:\UIT\HK5\NET\LINQ to Object\GUI\bin\Debug\BLL.dll
+D:\UIT\HK5\NET\LINQ to Object\GUI\bin\Debug\DTO.dll
+D:\UIT\HK5\NET\LINQ to Object\GUI\bin\Debug\BLL.pdb
+D:\UIT\HK5\NET\LINQ to Object\GUI\bin\Debug\DTO.pdb
+D:\UIT\HK5\NET\LINQ to Object\GUI\obj\Debug\GUI.csproj.AssemblyReference.cache
+D:\UIT\HK5\NET\LINQ to Object\GUI\obj\Debug\GUI.Form1.resources
+D:\UIT\HK5\NET\LINQ to Object\GUI\obj\Debug\GUI.Properties.Resources.resources
+D:\UIT\HK5\NET\LINQ to Object\GUI\obj\Debug\GUI.csproj.GenerateResource.cache
+D:\UIT\HK5\NET\LINQ to Object\GUI\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+D:\UIT\HK5\NET\LINQ to Object\GUI\obj\Debug\GUI.csproj.Up2Date
+D:\UIT\HK5\NET\LINQ to Object\GUI\obj\Debug\GUI.exe
+D:\UIT\HK5\NET\LINQ to Object\GUI\obj\Debug\GUI.pdb
+D:\UIT\HK5\NET\LINQ to Object\GUI\bin\Debug\DAL.dll
+D:\UIT\HK5\NET\LINQ to Object\GUI\bin\Debug\DAL.pdb
