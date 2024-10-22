@@ -1,0 +1,537 @@
+{
+  "Files": [
+    {
+      "Id": "/Users/nguyenquocthang/Desktop/UIT/BTTH2/WebAdminDashboard/WebAdminDashboard/obj/Debug/net8.0/scopedcss/projectbundle/WebAdminDashboard.bundle.scp.css",
+      "PackagePath": "staticwebassets/WebAdminDashboard.bundle.scp.css"
+    },
+    {
+      "Id": "/Users/nguyenquocthang/Desktop/UIT/BTTH2/WebAdminDashboard/WebAdminDashboard/wwwroot/404.html",
+      "PackagePath": "staticwebassets/404.html"
+    },
+    {
+      "Id": "/Users/nguyenquocthang/Desktop/UIT/BTTH2/WebAdminDashboard/WebAdminDashboard/wwwroot/LICENSE.txt",
+      "PackagePath": "staticwebassets/LICENSE.txt"
+    },
+    {
+      "Id": "/Users/nguyenquocthang/Desktop/UIT/BTTH2/WebAdminDashboard/WebAdminDashboard/wwwroot/READ-ME.txt",
+      "PackagePath": "staticwebassets/READ-ME.txt"
+    },
+    {
+      "Id": "/Users/nguyenquocthang/Desktop/UIT/BTTH2/WebAdminDashboard/WebAdminDashboard/wwwroot/about.html",
+      "PackagePath": "staticwebassets/about.html"
+    },
+    {
+      "Id": "/Users/nguyenquocthang/Desktop/UIT/BTTH2/WebAdminDashboard/WebAdminDashboard/wwwroot/blog.html",
+      "PackagePath": "staticwebassets/blog.html"
+    },
+    {
+      "Id": "/Users/nguyenquocthang/Desktop/UIT/BTTH2/WebAdminDashboard/WebAdminDashboard/wwwroot/contact.html",
+      "PackagePath": "staticwebassets/contact.html"
+    },
+    {
+      "Id": "/Users/nguyenquocthang/Desktop/UIT/BTTH2/WebAdminDashboard/WebAdminDashboard/wwwroot/css/bootstrap.min.css",
+      "PackagePath": "staticwebassets/css/bootstrap.min.css"
+    },
+    {
+      "Id": "/Users/nguyenquocthang/Desktop/UIT/BTTH2/WebAdminDashboard/WebAdminDashboard/wwwroot/css/style.css",
+      "PackagePath": "staticwebassets/css/style.css"
+    },
+    {
+      "Id": "/Users/nguyenquocthang/Desktop/UIT/BTTH2/WebAdminDashboard/WebAdminDashboard/wwwroot/feature.html",
+      "PackagePath": "staticwebassets/feature.html"
+    },
+    {
+      "Id": "/Users/nguyenquocthang/Desktop/UIT/BTTH2/WebAdminDashboard/WebAdminDashboard/wwwroot/how-to-use.html",
+      "PackagePath": "staticwebassets/how-to-use.html"
+    },
+    {
+      "Id": "/Users/nguyenquocthang/Desktop/UIT/BTTH2/WebAdminDashboard/WebAdminDashboard/wwwroot/img/bg.png",
+      "PackagePath": "staticwebassets/img/bg.png"
+    },
+    {
+      "Id": "/Users/nguyenquocthang/Desktop/UIT/BTTH2/WebAdminDashboard/WebAdminDashboard/wwwroot/img/blog-1.jpg",
+      "PackagePath": "staticwebassets/img/blog-1.jpg"
+    },
+    {
+      "Id": "/Users/nguyenquocthang/Desktop/UIT/BTTH2/WebAdminDashboard/WebAdminDashboard/wwwroot/img/blog-2.jpg",
+      "PackagePath": "staticwebassets/img/blog-2.jpg"
+    },
+    {
+      "Id": "/Users/nguyenquocthang/Desktop/UIT/BTTH2/WebAdminDashboard/WebAdminDashboard/wwwroot/img/blog-3.jpg",
+      "PackagePath": "staticwebassets/img/blog-3.jpg"
+    },
+    {
+      "Id": "/Users/nguyenquocthang/Desktop/UIT/BTTH2/WebAdminDashboard/WebAdminDashboard/wwwroot/img/product-1.png",
+      "PackagePath": "staticwebassets/img/product-1.png"
+    },
+    {
+      "Id": "/Users/nguyenquocthang/Desktop/UIT/BTTH2/WebAdminDashboard/WebAdminDashboard/wwwroot/img/product-2.png",
+      "PackagePath": "staticwebassets/img/product-2.png"
+    },
+    {
+      "Id": "/Users/nguyenquocthang/Desktop/UIT/BTTH2/WebAdminDashboard/WebAdminDashboard/wwwroot/img/shampoo-1.png",
+      "PackagePath": "staticwebassets/img/shampoo-1.png"
+    },
+    {
+      "Id": "/Users/nguyenquocthang/Desktop/UIT/BTTH2/WebAdminDashboard/WebAdminDashboard/wwwroot/img/shampoo-2.png",
+      "PackagePath": "staticwebassets/img/shampoo-2.png"
+    },
+    {
+      "Id": "/Users/nguyenquocthang/Desktop/UIT/BTTH2/WebAdminDashboard/WebAdminDashboard/wwwroot/img/shampoo.png",
+      "PackagePath": "staticwebassets/img/shampoo.png"
+    },
+    {
+      "Id": "/Users/nguyenquocthang/Desktop/UIT/BTTH2/WebAdminDashboard/WebAdminDashboard/wwwroot/img/testimonial-1.jpg",
+      "PackagePath": "staticwebassets/img/testimonial-1.jpg"
+    },
+    {
+      "Id": "/Users/nguyenquocthang/Desktop/UIT/BTTH2/WebAdminDashboard/WebAdminDashboard/wwwroot/img/testimonial-2.jpg",
+      "PackagePath": "staticwebassets/img/testimonial-2.jpg"
+    },
+    {
+      "Id": "/Users/nguyenquocthang/Desktop/UIT/BTTH2/WebAdminDashboard/WebAdminDashboard/wwwroot/img/testimonial-3.jpg",
+      "PackagePath": "staticwebassets/img/testimonial-3.jpg"
+    },
+    {
+      "Id": "/Users/nguyenquocthang/Desktop/UIT/BTTH2/WebAdminDashboard/WebAdminDashboard/wwwroot/index.html",
+      "PackagePath": "staticwebassets/index.html"
+    },
+    {
+      "Id": "/Users/nguyenquocthang/Desktop/UIT/BTTH2/WebAdminDashboard/WebAdminDashboard/wwwroot/js/main.js",
+      "PackagePath": "staticwebassets/js/main.js"
+    },
+    {
+      "Id": "/Users/nguyenquocthang/Desktop/UIT/BTTH2/WebAdminDashboard/WebAdminDashboard/wwwroot/lib/animate/animate.css",
+      "PackagePath": "staticwebassets/lib/animate/animate.css"
+    },
+    {
+      "Id": "/Users/nguyenquocthang/Desktop/UIT/BTTH2/WebAdminDashboard/WebAdminDashboard/wwwroot/lib/animate/animate.min.css",
+      "PackagePath": "staticwebassets/lib/animate/animate.min.css"
+    },
+    {
+      "Id": "/Users/nguyenquocthang/Desktop/UIT/BTTH2/WebAdminDashboard/WebAdminDashboard/wwwroot/lib/easing/easing.js",
+      "PackagePath": "staticwebassets/lib/easing/easing.js"
+    },
+    {
+      "Id": "/Users/nguyenquocthang/Desktop/UIT/BTTH2/WebAdminDashboard/WebAdminDashboard/wwwroot/lib/easing/easing.min.js",
+      "PackagePath": "staticwebassets/lib/easing/easing.min.js"
+    },
+    {
+      "Id": "/Users/nguyenquocthang/Desktop/UIT/BTTH2/WebAdminDashboard/WebAdminDashboard/wwwroot/lib/owlcarousel/LICENSE",
+      "PackagePath": "staticwebassets/lib/owlcarousel"
+    },
+    {
+      "Id": "/Users/nguyenquocthang/Desktop/UIT/BTTH2/WebAdminDashboard/WebAdminDashboard/wwwroot/lib/owlcarousel/assets/ajax-loader.gif",
+      "PackagePath": "staticwebassets/lib/owlcarousel/assets/ajax-loader.gif"
+    },
+    {
+      "Id": "/Users/nguyenquocthang/Desktop/UIT/BTTH2/WebAdminDashboard/WebAdminDashboard/wwwroot/lib/owlcarousel/assets/owl.carousel.css",
+      "PackagePath": "staticwebassets/lib/owlcarousel/assets/owl.carousel.css"
+    },
+    {
+      "Id": "/Users/nguyenquocthang/Desktop/UIT/BTTH2/WebAdminDashboard/WebAdminDashboard/wwwroot/lib/owlcarousel/assets/owl.carousel.min.css",
+      "PackagePath": "staticwebassets/lib/owlcarousel/assets/owl.carousel.min.css"
+    },
+    {
+      "Id": "/Users/nguyenquocthang/Desktop/UIT/BTTH2/WebAdminDashboard/WebAdminDashboard/wwwroot/lib/owlcarousel/assets/owl.theme.default.css",
+      "PackagePath": "staticwebassets/lib/owlcarousel/assets/owl.theme.default.css"
+    },
+    {
+      "Id": "/Users/nguyenquocthang/Desktop/UIT/BTTH2/WebAdminDashboard/WebAdminDashboard/wwwroot/lib/owlcarousel/assets/owl.theme.default.min.css",
+      "PackagePath": "staticwebassets/lib/owlcarousel/assets/owl.theme.default.min.css"
+    },
+    {
+      "Id": "/Users/nguyenquocthang/Desktop/UIT/BTTH2/WebAdminDashboard/WebAdminDashboard/wwwroot/lib/owlcarousel/assets/owl.theme.green.css",
+      "PackagePath": "staticwebassets/lib/owlcarousel/assets/owl.theme.green.css"
+    },
+    {
+      "Id": "/Users/nguyenquocthang/Desktop/UIT/BTTH2/WebAdminDashboard/WebAdminDashboard/wwwroot/lib/owlcarousel/assets/owl.theme.green.min.css",
+      "PackagePath": "staticwebassets/lib/owlcarousel/assets/owl.theme.green.min.css"
+    },
+    {
+      "Id": "/Users/nguyenquocthang/Desktop/UIT/BTTH2/WebAdminDashboard/WebAdminDashboard/wwwroot/lib/owlcarousel/assets/owl.video.play.png",
+      "PackagePath": "staticwebassets/lib/owlcarousel/assets/owl.video.play.png"
+    },
+    {
+      "Id": "/Users/nguyenquocthang/Desktop/UIT/BTTH2/WebAdminDashboard/WebAdminDashboard/wwwroot/lib/owlcarousel/owl.carousel.js",
+      "PackagePath": "staticwebassets/lib/owlcarousel/owl.carousel.js"
+    },
+    {
+      "Id": "/Users/nguyenquocthang/Desktop/UIT/BTTH2/WebAdminDashboard/WebAdminDashboard/wwwroot/lib/owlcarousel/owl.carousel.min.js",
+      "PackagePath": "staticwebassets/lib/owlcarousel/owl.carousel.min.js"
+    },
+    {
+      "Id": "/Users/nguyenquocthang/Desktop/UIT/BTTH2/WebAdminDashboard/WebAdminDashboard/wwwroot/lib/waypoints/links.php",
+      "PackagePath": "staticwebassets/lib/waypoints/links.php"
+    },
+    {
+      "Id": "/Users/nguyenquocthang/Desktop/UIT/BTTH2/WebAdminDashboard/WebAdminDashboard/wwwroot/lib/waypoints/waypoints.min.js",
+      "PackagePath": "staticwebassets/lib/waypoints/waypoints.min.js"
+    },
+    {
+      "Id": "/Users/nguyenquocthang/Desktop/UIT/BTTH2/WebAdminDashboard/WebAdminDashboard/wwwroot/lib/wow/wow.js",
+      "PackagePath": "staticwebassets/lib/wow/wow.js"
+    },
+    {
+      "Id": "/Users/nguyenquocthang/Desktop/UIT/BTTH2/WebAdminDashboard/WebAdminDashboard/wwwroot/lib/wow/wow.min.js",
+      "PackagePath": "staticwebassets/lib/wow/wow.min.js"
+    },
+    {
+      "Id": "/Users/nguyenquocthang/Desktop/UIT/BTTH2/WebAdminDashboard/WebAdminDashboard/wwwroot/product.html",
+      "PackagePath": "staticwebassets/product.html"
+    },
+    {
+      "Id": "/Users/nguyenquocthang/Desktop/UIT/BTTH2/WebAdminDashboard/WebAdminDashboard/wwwroot/scss/bootstrap.scss",
+      "PackagePath": "staticwebassets/scss/bootstrap.scss"
+    },
+    {
+      "Id": "/Users/nguyenquocthang/Desktop/UIT/BTTH2/WebAdminDashboard/WebAdminDashboard/wwwroot/scss/bootstrap/scss/_accordion.scss",
+      "PackagePath": "staticwebassets/scss/bootstrap/scss/_accordion.scss"
+    },
+    {
+      "Id": "/Users/nguyenquocthang/Desktop/UIT/BTTH2/WebAdminDashboard/WebAdminDashboard/wwwroot/scss/bootstrap/scss/_alert.scss",
+      "PackagePath": "staticwebassets/scss/bootstrap/scss/_alert.scss"
+    },
+    {
+      "Id": "/Users/nguyenquocthang/Desktop/UIT/BTTH2/WebAdminDashboard/WebAdminDashboard/wwwroot/scss/bootstrap/scss/_badge.scss",
+      "PackagePath": "staticwebassets/scss/bootstrap/scss/_badge.scss"
+    },
+    {
+      "Id": "/Users/nguyenquocthang/Desktop/UIT/BTTH2/WebAdminDashboard/WebAdminDashboard/wwwroot/scss/bootstrap/scss/_breadcrumb.scss",
+      "PackagePath": "staticwebassets/scss/bootstrap/scss/_breadcrumb.scss"
+    },
+    {
+      "Id": "/Users/nguyenquocthang/Desktop/UIT/BTTH2/WebAdminDashboard/WebAdminDashboard/wwwroot/scss/bootstrap/scss/_button-group.scss",
+      "PackagePath": "staticwebassets/scss/bootstrap/scss/_button-group.scss"
+    },
+    {
+      "Id": "/Users/nguyenquocthang/Desktop/UIT/BTTH2/WebAdminDashboard/WebAdminDashboard/wwwroot/scss/bootstrap/scss/_buttons.scss",
+      "PackagePath": "staticwebassets/scss/bootstrap/scss/_buttons.scss"
+    },
+    {
+      "Id": "/Users/nguyenquocthang/Desktop/UIT/BTTH2/WebAdminDashboard/WebAdminDashboard/wwwroot/scss/bootstrap/scss/_card.scss",
+      "PackagePath": "staticwebassets/scss/bootstrap/scss/_card.scss"
+    },
+    {
+      "Id": "/Users/nguyenquocthang/Desktop/UIT/BTTH2/WebAdminDashboard/WebAdminDashboard/wwwroot/scss/bootstrap/scss/_carousel.scss",
+      "PackagePath": "staticwebassets/scss/bootstrap/scss/_carousel.scss"
+    },
+    {
+      "Id": "/Users/nguyenquocthang/Desktop/UIT/BTTH2/WebAdminDashboard/WebAdminDashboard/wwwroot/scss/bootstrap/scss/_close.scss",
+      "PackagePath": "staticwebassets/scss/bootstrap/scss/_close.scss"
+    },
+    {
+      "Id": "/Users/nguyenquocthang/Desktop/UIT/BTTH2/WebAdminDashboard/WebAdminDashboard/wwwroot/scss/bootstrap/scss/_containers.scss",
+      "PackagePath": "staticwebassets/scss/bootstrap/scss/_containers.scss"
+    },
+    {
+      "Id": "/Users/nguyenquocthang/Desktop/UIT/BTTH2/WebAdminDashboard/WebAdminDashboard/wwwroot/scss/bootstrap/scss/_dropdown.scss",
+      "PackagePath": "staticwebassets/scss/bootstrap/scss/_dropdown.scss"
+    },
+    {
+      "Id": "/Users/nguyenquocthang/Desktop/UIT/BTTH2/WebAdminDashboard/WebAdminDashboard/wwwroot/scss/bootstrap/scss/_forms.scss",
+      "PackagePath": "staticwebassets/scss/bootstrap/scss/_forms.scss"
+    },
+    {
+      "Id": "/Users/nguyenquocthang/Desktop/UIT/BTTH2/WebAdminDashboard/WebAdminDashboard/wwwroot/scss/bootstrap/scss/_functions.scss",
+      "PackagePath": "staticwebassets/scss/bootstrap/scss/_functions.scss"
+    },
+    {
+      "Id": "/Users/nguyenquocthang/Desktop/UIT/BTTH2/WebAdminDashboard/WebAdminDashboard/wwwroot/scss/bootstrap/scss/_grid.scss",
+      "PackagePath": "staticwebassets/scss/bootstrap/scss/_grid.scss"
+    },
+    {
+      "Id": "/Users/nguyenquocthang/Desktop/UIT/BTTH2/WebAdminDashboard/WebAdminDashboard/wwwroot/scss/bootstrap/scss/_helpers.scss",
+      "PackagePath": "staticwebassets/scss/bootstrap/scss/_helpers.scss"
+    },
+    {
+      "Id": "/Users/nguyenquocthang/Desktop/UIT/BTTH2/WebAdminDashboard/WebAdminDashboard/wwwroot/scss/bootstrap/scss/_images.scss",
+      "PackagePath": "staticwebassets/scss/bootstrap/scss/_images.scss"
+    },
+    {
+      "Id": "/Users/nguyenquocthang/Desktop/UIT/BTTH2/WebAdminDashboard/WebAdminDashboard/wwwroot/scss/bootstrap/scss/_list-group.scss",
+      "PackagePath": "staticwebassets/scss/bootstrap/scss/_list-group.scss"
+    },
+    {
+      "Id": "/Users/nguyenquocthang/Desktop/UIT/BTTH2/WebAdminDashboard/WebAdminDashboard/wwwroot/scss/bootstrap/scss/_mixins.scss",
+      "PackagePath": "staticwebassets/scss/bootstrap/scss/_mixins.scss"
+    },
+    {
+      "Id": "/Users/nguyenquocthang/Desktop/UIT/BTTH2/WebAdminDashboard/WebAdminDashboard/wwwroot/scss/bootstrap/scss/_modal.scss",
+      "PackagePath": "staticwebassets/scss/bootstrap/scss/_modal.scss"
+    },
+    {
+      "Id": "/Users/nguyenquocthang/Desktop/UIT/BTTH2/WebAdminDashboard/WebAdminDashboard/wwwroot/scss/bootstrap/scss/_nav.scss",
+      "PackagePath": "staticwebassets/scss/bootstrap/scss/_nav.scss"
+    },
+    {
+      "Id": "/Users/nguyenquocthang/Desktop/UIT/BTTH2/WebAdminDashboard/WebAdminDashboard/wwwroot/scss/bootstrap/scss/_navbar.scss",
+      "PackagePath": "staticwebassets/scss/bootstrap/scss/_navbar.scss"
+    },
+    {
+      "Id": "/Users/nguyenquocthang/Desktop/UIT/BTTH2/WebAdminDashboard/WebAdminDashboard/wwwroot/scss/bootstrap/scss/_offcanvas.scss",
+      "PackagePath": "staticwebassets/scss/bootstrap/scss/_offcanvas.scss"
+    },
+    {
+      "Id": "/Users/nguyenquocthang/Desktop/UIT/BTTH2/WebAdminDashboard/WebAdminDashboard/wwwroot/scss/bootstrap/scss/_pagination.scss",
+      "PackagePath": "staticwebassets/scss/bootstrap/scss/_pagination.scss"
+    },
+    {
+      "Id": "/Users/nguyenquocthang/Desktop/UIT/BTTH2/WebAdminDashboard/WebAdminDashboard/wwwroot/scss/bootstrap/scss/_popover.scss",
+      "PackagePath": "staticwebassets/scss/bootstrap/scss/_popover.scss"
+    },
+    {
+      "Id": "/Users/nguyenquocthang/Desktop/UIT/BTTH2/WebAdminDashboard/WebAdminDashboard/wwwroot/scss/bootstrap/scss/_progress.scss",
+      "PackagePath": "staticwebassets/scss/bootstrap/scss/_progress.scss"
+    },
+    {
+      "Id": "/Users/nguyenquocthang/Desktop/UIT/BTTH2/WebAdminDashboard/WebAdminDashboard/wwwroot/scss/bootstrap/scss/_reboot.scss",
+      "PackagePath": "staticwebassets/scss/bootstrap/scss/_reboot.scss"
+    },
+    {
+      "Id": "/Users/nguyenquocthang/Desktop/UIT/BTTH2/WebAdminDashboard/WebAdminDashboard/wwwroot/scss/bootstrap/scss/_root.scss",
+      "PackagePath": "staticwebassets/scss/bootstrap/scss/_root.scss"
+    },
+    {
+      "Id": "/Users/nguyenquocthang/Desktop/UIT/BTTH2/WebAdminDashboard/WebAdminDashboard/wwwroot/scss/bootstrap/scss/_spinners.scss",
+      "PackagePath": "staticwebassets/scss/bootstrap/scss/_spinners.scss"
+    },
+    {
+      "Id": "/Users/nguyenquocthang/Desktop/UIT/BTTH2/WebAdminDashboard/WebAdminDashboard/wwwroot/scss/bootstrap/scss/_tables.scss",
+      "PackagePath": "staticwebassets/scss/bootstrap/scss/_tables.scss"
+    },
+    {
+      "Id": "/Users/nguyenquocthang/Desktop/UIT/BTTH2/WebAdminDashboard/WebAdminDashboard/wwwroot/scss/bootstrap/scss/_toasts.scss",
+      "PackagePath": "staticwebassets/scss/bootstrap/scss/_toasts.scss"
+    },
+    {
+      "Id": "/Users/nguyenquocthang/Desktop/UIT/BTTH2/WebAdminDashboard/WebAdminDashboard/wwwroot/scss/bootstrap/scss/_tooltip.scss",
+      "PackagePath": "staticwebassets/scss/bootstrap/scss/_tooltip.scss"
+    },
+    {
+      "Id": "/Users/nguyenquocthang/Desktop/UIT/BTTH2/WebAdminDashboard/WebAdminDashboard/wwwroot/scss/bootstrap/scss/_transitions.scss",
+      "PackagePath": "staticwebassets/scss/bootstrap/scss/_transitions.scss"
+    },
+    {
+      "Id": "/Users/nguyenquocthang/Desktop/UIT/BTTH2/WebAdminDashboard/WebAdminDashboard/wwwroot/scss/bootstrap/scss/_type.scss",
+      "PackagePath": "staticwebassets/scss/bootstrap/scss/_type.scss"
+    },
+    {
+      "Id": "/Users/nguyenquocthang/Desktop/UIT/BTTH2/WebAdminDashboard/WebAdminDashboard/wwwroot/scss/bootstrap/scss/_utilities.scss",
+      "PackagePath": "staticwebassets/scss/bootstrap/scss/_utilities.scss"
+    },
+    {
+      "Id": "/Users/nguyenquocthang/Desktop/UIT/BTTH2/WebAdminDashboard/WebAdminDashboard/wwwroot/scss/bootstrap/scss/_variables.scss",
+      "PackagePath": "staticwebassets/scss/bootstrap/scss/_variables.scss"
+    },
+    {
+      "Id": "/Users/nguyenquocthang/Desktop/UIT/BTTH2/WebAdminDashboard/WebAdminDashboard/wwwroot/scss/bootstrap/scss/bootstrap-grid.scss",
+      "PackagePath": "staticwebassets/scss/bootstrap/scss/bootstrap-grid.scss"
+    },
+    {
+      "Id": "/Users/nguyenquocthang/Desktop/UIT/BTTH2/WebAdminDashboard/WebAdminDashboard/wwwroot/scss/bootstrap/scss/bootstrap-reboot.scss",
+      "PackagePath": "staticwebassets/scss/bootstrap/scss/bootstrap-reboot.scss"
+    },
+    {
+      "Id": "/Users/nguyenquocthang/Desktop/UIT/BTTH2/WebAdminDashboard/WebAdminDashboard/wwwroot/scss/bootstrap/scss/bootstrap-utilities.scss",
+      "PackagePath": "staticwebassets/scss/bootstrap/scss/bootstrap-utilities.scss"
+    },
+    {
+      "Id": "/Users/nguyenquocthang/Desktop/UIT/BTTH2/WebAdminDashboard/WebAdminDashboard/wwwroot/scss/bootstrap/scss/bootstrap.scss",
+      "PackagePath": "staticwebassets/scss/bootstrap/scss/bootstrap.scss"
+    },
+    {
+      "Id": "/Users/nguyenquocthang/Desktop/UIT/BTTH2/WebAdminDashboard/WebAdminDashboard/wwwroot/scss/bootstrap/scss/forms/_floating-labels.scss",
+      "PackagePath": "staticwebassets/scss/bootstrap/scss/forms/_floating-labels.scss"
+    },
+    {
+      "Id": "/Users/nguyenquocthang/Desktop/UIT/BTTH2/WebAdminDashboard/WebAdminDashboard/wwwroot/scss/bootstrap/scss/forms/_form-check.scss",
+      "PackagePath": "staticwebassets/scss/bootstrap/scss/forms/_form-check.scss"
+    },
+    {
+      "Id": "/Users/nguyenquocthang/Desktop/UIT/BTTH2/WebAdminDashboard/WebAdminDashboard/wwwroot/scss/bootstrap/scss/forms/_form-control.scss",
+      "PackagePath": "staticwebassets/scss/bootstrap/scss/forms/_form-control.scss"
+    },
+    {
+      "Id": "/Users/nguyenquocthang/Desktop/UIT/BTTH2/WebAdminDashboard/WebAdminDashboard/wwwroot/scss/bootstrap/scss/forms/_form-range.scss",
+      "PackagePath": "staticwebassets/scss/bootstrap/scss/forms/_form-range.scss"
+    },
+    {
+      "Id": "/Users/nguyenquocthang/Desktop/UIT/BTTH2/WebAdminDashboard/WebAdminDashboard/wwwroot/scss/bootstrap/scss/forms/_form-select.scss",
+      "PackagePath": "staticwebassets/scss/bootstrap/scss/forms/_form-select.scss"
+    },
+    {
+      "Id": "/Users/nguyenquocthang/Desktop/UIT/BTTH2/WebAdminDashboard/WebAdminDashboard/wwwroot/scss/bootstrap/scss/forms/_form-text.scss",
+      "PackagePath": "staticwebassets/scss/bootstrap/scss/forms/_form-text.scss"
+    },
+    {
+      "Id": "/Users/nguyenquocthang/Desktop/UIT/BTTH2/WebAdminDashboard/WebAdminDashboard/wwwroot/scss/bootstrap/scss/forms/_input-group.scss",
+      "PackagePath": "staticwebassets/scss/bootstrap/scss/forms/_input-group.scss"
+    },
+    {
+      "Id": "/Users/nguyenquocthang/Desktop/UIT/BTTH2/WebAdminDashboard/WebAdminDashboard/wwwroot/scss/bootstrap/scss/forms/_labels.scss",
+      "PackagePath": "staticwebassets/scss/bootstrap/scss/forms/_labels.scss"
+    },
+    {
+      "Id": "/Users/nguyenquocthang/Desktop/UIT/BTTH2/WebAdminDashboard/WebAdminDashboard/wwwroot/scss/bootstrap/scss/forms/_validation.scss",
+      "PackagePath": "staticwebassets/scss/bootstrap/scss/forms/_validation.scss"
+    },
+    {
+      "Id": "/Users/nguyenquocthang/Desktop/UIT/BTTH2/WebAdminDashboard/WebAdminDashboard/wwwroot/scss/bootstrap/scss/helpers/_clearfix.scss",
+      "PackagePath": "staticwebassets/scss/bootstrap/scss/helpers/_clearfix.scss"
+    },
+    {
+      "Id": "/Users/nguyenquocthang/Desktop/UIT/BTTH2/WebAdminDashboard/WebAdminDashboard/wwwroot/scss/bootstrap/scss/helpers/_colored-links.scss",
+      "PackagePath": "staticwebassets/scss/bootstrap/scss/helpers/_colored-links.scss"
+    },
+    {
+      "Id": "/Users/nguyenquocthang/Desktop/UIT/BTTH2/WebAdminDashboard/WebAdminDashboard/wwwroot/scss/bootstrap/scss/helpers/_position.scss",
+      "PackagePath": "staticwebassets/scss/bootstrap/scss/helpers/_position.scss"
+    },
+    {
+      "Id": "/Users/nguyenquocthang/Desktop/UIT/BTTH2/WebAdminDashboard/WebAdminDashboard/wwwroot/scss/bootstrap/scss/helpers/_ratio.scss",
+      "PackagePath": "staticwebassets/scss/bootstrap/scss/helpers/_ratio.scss"
+    },
+    {
+      "Id": "/Users/nguyenquocthang/Desktop/UIT/BTTH2/WebAdminDashboard/WebAdminDashboard/wwwroot/scss/bootstrap/scss/helpers/_stretched-link.scss",
+      "PackagePath": "staticwebassets/scss/bootstrap/scss/helpers/_stretched-link.scss"
+    },
+    {
+      "Id": "/Users/nguyenquocthang/Desktop/UIT/BTTH2/WebAdminDashboard/WebAdminDashboard/wwwroot/scss/bootstrap/scss/helpers/_text-truncation.scss",
+      "PackagePath": "staticwebassets/scss/bootstrap/scss/helpers/_text-truncation.scss"
+    },
+    {
+      "Id": "/Users/nguyenquocthang/Desktop/UIT/BTTH2/WebAdminDashboard/WebAdminDashboard/wwwroot/scss/bootstrap/scss/helpers/_visually-hidden.scss",
+      "PackagePath": "staticwebassets/scss/bootstrap/scss/helpers/_visually-hidden.scss"
+    },
+    {
+      "Id": "/Users/nguyenquocthang/Desktop/UIT/BTTH2/WebAdminDashboard/WebAdminDashboard/wwwroot/scss/bootstrap/scss/mixins/_alert.scss",
+      "PackagePath": "staticwebassets/scss/bootstrap/scss/mixins/_alert.scss"
+    },
+    {
+      "Id": "/Users/nguyenquocthang/Desktop/UIT/BTTH2/WebAdminDashboard/WebAdminDashboard/wwwroot/scss/bootstrap/scss/mixins/_border-radius.scss",
+      "PackagePath": "staticwebassets/scss/bootstrap/scss/mixins/_border-radius.scss"
+    },
+    {
+      "Id": "/Users/nguyenquocthang/Desktop/UIT/BTTH2/WebAdminDashboard/WebAdminDashboard/wwwroot/scss/bootstrap/scss/mixins/_box-shadow.scss",
+      "PackagePath": "staticwebassets/scss/bootstrap/scss/mixins/_box-shadow.scss"
+    },
+    {
+      "Id": "/Users/nguyenquocthang/Desktop/UIT/BTTH2/WebAdminDashboard/WebAdminDashboard/wwwroot/scss/bootstrap/scss/mixins/_breakpoints.scss",
+      "PackagePath": "staticwebassets/scss/bootstrap/scss/mixins/_breakpoints.scss"
+    },
+    {
+      "Id": "/Users/nguyenquocthang/Desktop/UIT/BTTH2/WebAdminDashboard/WebAdminDashboard/wwwroot/scss/bootstrap/scss/mixins/_buttons.scss",
+      "PackagePath": "staticwebassets/scss/bootstrap/scss/mixins/_buttons.scss"
+    },
+    {
+      "Id": "/Users/nguyenquocthang/Desktop/UIT/BTTH2/WebAdminDashboard/WebAdminDashboard/wwwroot/scss/bootstrap/scss/mixins/_caret.scss",
+      "PackagePath": "staticwebassets/scss/bootstrap/scss/mixins/_caret.scss"
+    },
+    {
+      "Id": "/Users/nguyenquocthang/Desktop/UIT/BTTH2/WebAdminDashboard/WebAdminDashboard/wwwroot/scss/bootstrap/scss/mixins/_clearfix.scss",
+      "PackagePath": "staticwebassets/scss/bootstrap/scss/mixins/_clearfix.scss"
+    },
+    {
+      "Id": "/Users/nguyenquocthang/Desktop/UIT/BTTH2/WebAdminDashboard/WebAdminDashboard/wwwroot/scss/bootstrap/scss/mixins/_color-scheme.scss",
+      "PackagePath": "staticwebassets/scss/bootstrap/scss/mixins/_color-scheme.scss"
+    },
+    {
+      "Id": "/Users/nguyenquocthang/Desktop/UIT/BTTH2/WebAdminDashboard/WebAdminDashboard/wwwroot/scss/bootstrap/scss/mixins/_container.scss",
+      "PackagePath": "staticwebassets/scss/bootstrap/scss/mixins/_container.scss"
+    },
+    {
+      "Id": "/Users/nguyenquocthang/Desktop/UIT/BTTH2/WebAdminDashboard/WebAdminDashboard/wwwroot/scss/bootstrap/scss/mixins/_deprecate.scss",
+      "PackagePath": "staticwebassets/scss/bootstrap/scss/mixins/_deprecate.scss"
+    },
+    {
+      "Id": "/Users/nguyenquocthang/Desktop/UIT/BTTH2/WebAdminDashboard/WebAdminDashboard/wwwroot/scss/bootstrap/scss/mixins/_forms.scss",
+      "PackagePath": "staticwebassets/scss/bootstrap/scss/mixins/_forms.scss"
+    },
+    {
+      "Id": "/Users/nguyenquocthang/Desktop/UIT/BTTH2/WebAdminDashboard/WebAdminDashboard/wwwroot/scss/bootstrap/scss/mixins/_gradients.scss",
+      "PackagePath": "staticwebassets/scss/bootstrap/scss/mixins/_gradients.scss"
+    },
+    {
+      "Id": "/Users/nguyenquocthang/Desktop/UIT/BTTH2/WebAdminDashboard/WebAdminDashboard/wwwroot/scss/bootstrap/scss/mixins/_grid.scss",
+      "PackagePath": "staticwebassets/scss/bootstrap/scss/mixins/_grid.scss"
+    },
+    {
+      "Id": "/Users/nguyenquocthang/Desktop/UIT/BTTH2/WebAdminDashboard/WebAdminDashboard/wwwroot/scss/bootstrap/scss/mixins/_image.scss",
+      "PackagePath": "staticwebassets/scss/bootstrap/scss/mixins/_image.scss"
+    },
+    {
+      "Id": "/Users/nguyenquocthang/Desktop/UIT/BTTH2/WebAdminDashboard/WebAdminDashboard/wwwroot/scss/bootstrap/scss/mixins/_list-group.scss",
+      "PackagePath": "staticwebassets/scss/bootstrap/scss/mixins/_list-group.scss"
+    },
+    {
+      "Id": "/Users/nguyenquocthang/Desktop/UIT/BTTH2/WebAdminDashboard/WebAdminDashboard/wwwroot/scss/bootstrap/scss/mixins/_lists.scss",
+      "PackagePath": "staticwebassets/scss/bootstrap/scss/mixins/_lists.scss"
+    },
+    {
+      "Id": "/Users/nguyenquocthang/Desktop/UIT/BTTH2/WebAdminDashboard/WebAdminDashboard/wwwroot/scss/bootstrap/scss/mixins/_pagination.scss",
+      "PackagePath": "staticwebassets/scss/bootstrap/scss/mixins/_pagination.scss"
+    },
+    {
+      "Id": "/Users/nguyenquocthang/Desktop/UIT/BTTH2/WebAdminDashboard/WebAdminDashboard/wwwroot/scss/bootstrap/scss/mixins/_reset-text.scss",
+      "PackagePath": "staticwebassets/scss/bootstrap/scss/mixins/_reset-text.scss"
+    },
+    {
+      "Id": "/Users/nguyenquocthang/Desktop/UIT/BTTH2/WebAdminDashboard/WebAdminDashboard/wwwroot/scss/bootstrap/scss/mixins/_resize.scss",
+      "PackagePath": "staticwebassets/scss/bootstrap/scss/mixins/_resize.scss"
+    },
+    {
+      "Id": "/Users/nguyenquocthang/Desktop/UIT/BTTH2/WebAdminDashboard/WebAdminDashboard/wwwroot/scss/bootstrap/scss/mixins/_table-variants.scss",
+      "PackagePath": "staticwebassets/scss/bootstrap/scss/mixins/_table-variants.scss"
+    },
+    {
+      "Id": "/Users/nguyenquocthang/Desktop/UIT/BTTH2/WebAdminDashboard/WebAdminDashboard/wwwroot/scss/bootstrap/scss/mixins/_text-truncate.scss",
+      "PackagePath": "staticwebassets/scss/bootstrap/scss/mixins/_text-truncate.scss"
+    },
+    {
+      "Id": "/Users/nguyenquocthang/Desktop/UIT/BTTH2/WebAdminDashboard/WebAdminDashboard/wwwroot/scss/bootstrap/scss/mixins/_transition.scss",
+      "PackagePath": "staticwebassets/scss/bootstrap/scss/mixins/_transition.scss"
+    },
+    {
+      "Id": "/Users/nguyenquocthang/Desktop/UIT/BTTH2/WebAdminDashboard/WebAdminDashboard/wwwroot/scss/bootstrap/scss/mixins/_utilities.scss",
+      "PackagePath": "staticwebassets/scss/bootstrap/scss/mixins/_utilities.scss"
+    },
+    {
+      "Id": "/Users/nguyenquocthang/Desktop/UIT/BTTH2/WebAdminDashboard/WebAdminDashboard/wwwroot/scss/bootstrap/scss/mixins/_visually-hidden.scss",
+      "PackagePath": "staticwebassets/scss/bootstrap/scss/mixins/_visually-hidden.scss"
+    },
+    {
+      "Id": "/Users/nguyenquocthang/Desktop/UIT/BTTH2/WebAdminDashboard/WebAdminDashboard/wwwroot/scss/bootstrap/scss/utilities/_api.scss",
+      "PackagePath": "staticwebassets/scss/bootstrap/scss/utilities/_api.scss"
+    },
+    {
+      "Id": "/Users/nguyenquocthang/Desktop/UIT/BTTH2/WebAdminDashboard/WebAdminDashboard/wwwroot/scss/bootstrap/scss/vendor/_rfs.scss",
+      "PackagePath": "staticwebassets/scss/bootstrap/scss/vendor/_rfs.scss"
+    },
+    {
+      "Id": "/Users/nguyenquocthang/Desktop/UIT/BTTH2/WebAdminDashboard/WebAdminDashboard/wwwroot/single-product-website-template.jpg",
+      "PackagePath": "staticwebassets/single-product-website-template.jpg"
+    },
+    {
+      "Id": "/Users/nguyenquocthang/Desktop/UIT/BTTH2/WebAdminDashboard/WebAdminDashboard/wwwroot/testimonial.html",
+      "PackagePath": "staticwebassets/testimonial.html"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.WebAdminDashboard.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.build.WebAdminDashboard.props",
+      "PackagePath": "build\\WebAdminDashboard.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.WebAdminDashboard.props",
+      "PackagePath": "buildMultiTargeting\\WebAdminDashboard.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.WebAdminDashboard.props",
+      "PackagePath": "buildTransitive\\WebAdminDashboard.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

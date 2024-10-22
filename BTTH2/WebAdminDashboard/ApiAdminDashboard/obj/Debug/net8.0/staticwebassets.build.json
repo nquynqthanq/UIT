@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "ABPFwezwPjSwcP6mX7rHMZB65Cym97PQ75hCLt8k8sQ=",
+  "Source": "ApiAdminDashboard",
+  "BasePath": "_content/ApiAdminDashboard",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
