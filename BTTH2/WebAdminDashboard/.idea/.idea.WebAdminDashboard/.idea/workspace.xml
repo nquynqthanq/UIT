@@ -10,7 +10,31 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e62d6d6a-fcbf-4d29-b7ae-feffe6cabd6c" name="Changes" comment="" />
+    <list default="true" id="e62d6d6a-fcbf-4d29-b7ae-feffe6cabd6c" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.WebAdminDashboard/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.WebAdminDashboard/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ApiAdminDashboard/Data/ApplicationDbContext.cs" beforeDir="false" afterPath="$PROJECT_DIR$/ApiAdminDashboard/Data/ApplicationDbContext.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ApiAdminDashboard/bin/Debug/net8.0/ApiAdminDashboard.dll" beforeDir="false" afterPath="$PROJECT_DIR$/ApiAdminDashboard/bin/Debug/net8.0/ApiAdminDashboard.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ApiAdminDashboard/bin/Debug/net8.0/ApiAdminDashboard.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/ApiAdminDashboard/bin/Debug/net8.0/ApiAdminDashboard.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ApiAdminDashboard/obj/Debug/net8.0/ApiAdminDashboard.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/ApiAdminDashboard/obj/Debug/net8.0/ApiAdminDashboard.AssemblyInfo.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ApiAdminDashboard/obj/Debug/net8.0/ApiAdminDashboard.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/ApiAdminDashboard/obj/Debug/net8.0/ApiAdminDashboard.AssemblyInfoInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ApiAdminDashboard/obj/Debug/net8.0/ApiAdminDashboard.dll" beforeDir="false" afterPath="$PROJECT_DIR$/ApiAdminDashboard/obj/Debug/net8.0/ApiAdminDashboard.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ApiAdminDashboard/obj/Debug/net8.0/ApiAdminDashboard.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/ApiAdminDashboard/obj/Debug/net8.0/ApiAdminDashboard.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ApiAdminDashboard/obj/Debug/net8.0/ApiAdminDashboard.sourcelink.json" beforeDir="false" afterPath="$PROJECT_DIR$/ApiAdminDashboard/obj/Debug/net8.0/ApiAdminDashboard.sourcelink.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ApiAdminDashboard/obj/Debug/net8.0/ref/ApiAdminDashboard.dll" beforeDir="false" afterPath="$PROJECT_DIR$/ApiAdminDashboard/obj/Debug/net8.0/ref/ApiAdminDashboard.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ApiAdminDashboard/obj/Debug/net8.0/refint/ApiAdminDashboard.dll" beforeDir="false" afterPath="$PROJECT_DIR$/ApiAdminDashboard/obj/Debug/net8.0/refint/ApiAdminDashboard.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebAdminDashboard/Views/Admin/Dashboard.cshtml" beforeDir="false" afterPath="$PROJECT_DIR$/WebAdminDashboard/Views/Admin/Dashboard.cshtml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebAdminDashboard/Views/Shared/_NavbarUser.cshtml" beforeDir="false" afterPath="$PROJECT_DIR$/WebAdminDashboard/Views/Shared/_NavbarUser.cshtml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebAdminDashboard/bin/Debug/net8.0/WebAdminDashboard.dll" beforeDir="false" afterPath="$PROJECT_DIR$/WebAdminDashboard/bin/Debug/net8.0/WebAdminDashboard.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebAdminDashboard/bin/Debug/net8.0/WebAdminDashboard.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/WebAdminDashboard/bin/Debug/net8.0/WebAdminDashboard.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebAdminDashboard/obj/Debug/net8.0/WebAdminDashboard.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/WebAdminDashboard/obj/Debug/net8.0/WebAdminDashboard.AssemblyInfo.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebAdminDashboard/obj/Debug/net8.0/WebAdminDashboard.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/WebAdminDashboard/obj/Debug/net8.0/WebAdminDashboard.AssemblyInfoInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebAdminDashboard/obj/Debug/net8.0/WebAdminDashboard.dll" beforeDir="false" afterPath="$PROJECT_DIR$/WebAdminDashboard/obj/Debug/net8.0/WebAdminDashboard.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebAdminDashboard/obj/Debug/net8.0/WebAdminDashboard.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/WebAdminDashboard/obj/Debug/net8.0/WebAdminDashboard.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebAdminDashboard/obj/Debug/net8.0/WebAdminDashboard.sourcelink.json" beforeDir="false" afterPath="$PROJECT_DIR$/WebAdminDashboard/obj/Debug/net8.0/WebAdminDashboard.sourcelink.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebAdminDashboard/obj/Debug/net8.0/ref/WebAdminDashboard.dll" beforeDir="false" afterPath="$PROJECT_DIR$/WebAdminDashboard/obj/Debug/net8.0/ref/WebAdminDashboard.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebAdminDashboard/obj/Debug/net8.0/refint/WebAdminDashboard.dll" beforeDir="false" afterPath="$PROJECT_DIR$/WebAdminDashboard/obj/Debug/net8.0/refint/WebAdminDashboard.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebAdminDashboard/wwwroot/css/bootstrap.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/WebAdminDashboard/wwwroot/css/bootstrap.min.css" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -24,7 +48,12 @@
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/dcf35795a2a8f57553d92a80a042d6d4e0baebce75f38470b22bdf5eb6b76913/Environment.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/ea93d582c2debe8d7c89f3f4285f5130809d8b22e1f4c4d9634818087635/RazorPageOfT.cs" root0="SKIP_HIGHLIGHTING" />
   </component>
+  <component name="KubernetesApiPersistence">{}</component>
+  <component name="KubernetesApiProvider">{
+  &quot;isMigrated&quot;: true
+}</component>
   <component name="MetaFilesCheckinStateConfiguration" checkMetaFiles="true" />
   <component name="ProblemsViewState">
     <option name="selectedTabId" value="Toolset" />
@@ -46,18 +75,24 @@
     &quot;.NET Launch Settings Profile.ApiAdminDashboard: https.executor&quot;: &quot;Run&quot;,
     &quot;.NET Launch Settings Profile.WebAdminDashboard: http.executor&quot;: &quot;Run&quot;,
     &quot;.NET Launch Settings Profile.WebAdminDashboard: https.executor&quot;: &quot;Run&quot;,
+    &quot;HTTP Request.ApiAdminDashboard | #1.executor&quot;: &quot;Run&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;dart.analysis.tool.window.visible&quot;: &quot;false&quot;,
     &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/nguyenquocthang/Desktop/UIT/BTTH2/WebAdminDashboard&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;CodeLensConfigurable&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
   <component name="RunManager" selected=".NET Launch Settings Profile.WebAdminDashboard: http">
+    <configuration name="ApiAdminDashboard | #1" type="HttpClient.HttpRequestRunConfigurationType" factoryName="HTTP Request" temporary="true" nameIsGenerated="true" path="$PROJECT_DIR$/ApiAdminDashboard/ApiAdminDashboard.http" requestIdentifier="#1" runType="Run single request">
+      <method v="2" />
+    </configuration>
     <configuration name="ApiAdminDashboard: http" type="LaunchSettings" factoryName=".NET Launch Settings Profile">
       <option name="LAUNCH_PROFILE_PROJECT_FILE_PATH" value="$PROJECT_DIR$/ApiAdminDashboard/ApiAdminDashboard.csproj" />
       <option name="LAUNCH_PROFILE_TFM" value="net8.0" />
@@ -118,6 +153,11 @@
         <option name="Build" />
       </method>
     </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="HTTP Request.ApiAdminDashboard | #1" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -131,7 +171,31 @@
       <workItem from="1729433236192" duration="3379000" />
       <workItem from="1729443174864" duration="2744000" />
       <workItem from="1729516665852" duration="4297000" />
-      <workItem from="1729563189569" duration="508000" />
+      <workItem from="1729563189569" duration="757000" />
+      <workItem from="1730019896028" duration="2406000" />
+      <workItem from="1730022315645" duration="6000" />
+      <workItem from="1730022424246" duration="707000" />
+      <workItem from="1730023272936" duration="19000" />
+      <workItem from="1730023313325" duration="7000" />
+      <workItem from="1730023346458" duration="40000" />
+      <workItem from="1730023390176" duration="34000" />
+      <workItem from="1730023521047" duration="20000" />
+      <workItem from="1730023581411" duration="4000" />
+      <workItem from="1730023670004" duration="29000" />
+      <workItem from="1730023701976" duration="20000" />
+      <workItem from="1730038099755" duration="91000" />
+      <workItem from="1730038302528" duration="235000" />
+      <workItem from="1730038569003" duration="166000" />
+      <workItem from="1730038838055" duration="8000" />
+      <workItem from="1730039282263" duration="5000" />
+      <workItem from="1730039367419" duration="7000" />
+      <workItem from="1730039448057" duration="38000" />
+      <workItem from="1730039527879" duration="18000" />
+      <workItem from="1730039655463" duration="10000" />
+      <workItem from="1730039815302" duration="10000" />
+      <workItem from="1730090409397" duration="939000" />
+      <workItem from="1730092071084" duration="40000" />
+      <workItem from="1730092119315" duration="1992000" />
     </task>
     <servers />
   </component>
@@ -151,5 +215,9 @@
   <component name="VcsManagerConfiguration">
     <option name="LOCAL_CHANGES_DETAILS_PREVIEW_SHOWN" value="false" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>

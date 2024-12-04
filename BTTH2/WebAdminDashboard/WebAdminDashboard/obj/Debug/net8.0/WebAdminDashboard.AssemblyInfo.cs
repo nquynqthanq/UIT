@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("WebAdminDashboard")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+67190bca659cea96fdf1fd179810cce763f828be")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+35a1c032ca54066a726199f2c58966d21b7abccd")]
 [assembly: System.Reflection.AssemblyProductAttribute("WebAdminDashboard")]
 [assembly: System.Reflection.AssemblyTitleAttribute("WebAdminDashboard")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

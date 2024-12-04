@@ -15,7 +15,6 @@ namespace ApiAdminDashboard.Controllers
         public ProductsController(ApplicationDbContext dbContext)
         {
             _db = dbContext;
-            
         }
         
         [HttpGet]
@@ -23,7 +22,7 @@ namespace ApiAdminDashboard.Controllers
         {
             return Ok(_db.Products.ToList());
         }
-
+        
         [HttpGet]
         [Route("{id:int}")]
         public IActionResult GetProduct(int id)

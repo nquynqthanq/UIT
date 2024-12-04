@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>WebSocket Example</title>
+</head>
+<body>
+  <h1>WebSocket Example</h1>
+  <p id="serverTime">Server Time: </p>
+  <p id="connections">Connections: </p>
+
+  <script>
+    // Kết nối tới WebSocket server
+    const ws = new WebSocket('ws://localhost:4000');
+
+    ws.onopen = () => {
+      console.log('Connected to WebSocket server');
+    };
+
+    ws.onmessage = (event) => {
+      // Nhận dữ liệu từ server
+      const data = JSON.parse(event.data);
+
+      // Hiển thị dữ liệu lên giao diện
+      document.getElementById('serverTime').textContent = `Server Time: ${data.serverTime}`;
+      document.getElementById('connections').textContent = `Connections: ${data.connections}`;
+    };
+
+    ws.onclose = () => {
+      console.log('Disconnected from WebSocket server');
+    };
+
+    ws.onerror = (error) => {
+      console.error('WebSocket error:', error);
+    };
+  </script>
+</body>
+</html>
